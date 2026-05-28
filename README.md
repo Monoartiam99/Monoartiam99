@@ -36,11 +36,6 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 <!-- ✨ NEW: ANIMATED METRICS STRIP -->
 <div align="center">
 
-![Metrics](https://img.shields.io/badge/⚡_Code_Quality-A+-00C896?style=for-the-badge&labelColor=0D1117)
-![Metrics](https://img.shields.io/badge/🚀_Deployments-12+-FF6B6B?style=for-the-badge&labelColor=0D1117)
-![Metrics](https://img.shields.io/badge/📝_GFG_Articles-15+-F7971E?style=for-the-badge&labelColor=0D1117)
-![Metrics](https://img.shields.io/badge/⭐_Open_Source-Active-A78BFA?style=for-the-badge&labelColor=0D1117)
-
 </div>
  <br/>
   <br/>
