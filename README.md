@@ -17,3 +17,23 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <img src="https://github-trophies.vercel.app/?username=Monoartiam99&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
+</div>
+
+<br>
+
+<!-- ✨ NEW: ANIMATED METRICS STRIP -->
+<div align="center">
+
+![Metrics](https://img.shields.io/badge/⚡_Code_Quality-A+-00C896?style=for-the-badge&labelColor=0D1117)
+![Metrics](https://img.shields.io/badge/🚀_Deployments-12+-FF6B6B?style=for-the-badge&labelColor=0D1117)
+![Metrics](https://img.shields.io/badge/📝_GFG_Articles-15+-F7971E?style=for-the-badge&labelColor=0D1117)
+![Metrics](https://img.shields.io/badge/⭐_Open_Source-Active-A78BFA?style=for-the-badge&labelColor=0D1117)
+
+</div>
+ <br/>
+  <br/>
+  <!-- ANIMATED GRADIENT DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
+</div>
