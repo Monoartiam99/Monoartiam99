@@ -17,6 +17,7 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# Github Trophies: 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Monoartiam99&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
@@ -24,7 +25,6 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 <br>
 
 <!-- ✨ NEW: ANIMATED METRICS STRIP -->
-# Github Trophies: 
 <div align="center">
 
 ![Metrics](https://img.shields.io/badge/⚡_Code_Quality-A+-00C896?style=for-the-badge&labelColor=0D1117)
