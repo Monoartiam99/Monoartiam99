@@ -10,7 +10,7 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monoartiam99&theme=react" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monoartiam99&theme=tokyonight" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monoartiam99&theme=react&hide_border=false" width="50%"  height="558" />
 
