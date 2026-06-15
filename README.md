@@ -19,7 +19,6 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 :
 
 
-
 <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 <br>
