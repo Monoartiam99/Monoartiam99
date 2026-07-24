@@ -16,6 +16,8 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monoartiam99&theme=react&hide_border=false" width="50%"  height="558" />
 
 </p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monoartiam99&theme=react-dark&bg_color=00000000&color=A78BFA&line=8B5CF6&point=ffffff&area=true&hide_border=true"/>
 
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 :
 
@@ -35,9 +37,7 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 <br>
 <!-- contibution graph -->
 <!-- # 📈 Contribution Graph: -->
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Monoartiam99&theme=react-dark&bg_color=00000000&color=A78BFA&line=8B5CF6&point=ffffff&area=true&hide_border=true"/>
-</div>
+
 <!-- ✨ NEW: ANIMATED METRICS STRIP -->
 <div align="center">
 
