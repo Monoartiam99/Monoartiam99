@@ -44,6 +44,31 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 <br/>
 
+
+
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Monoartiam99.Monoartiam99)
+
+</div>
+
+---
+
+<div align="center">
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Monoartiam99/Monoartiam99/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Monoartiam99/Monoartiam99/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/Monoartiam99/Monoartiam99/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 </div>
