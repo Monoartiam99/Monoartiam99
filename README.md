@@ -26,29 +26,23 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 <br>
 
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # Github Trophies: 
 <div align="center">
   <img src="https://github-trophies.vercel.app/?username=Monoartiam99&theme=monokai&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies">
 </div>
-
 <br>
 <!-- contibution graph -->
 <!-- # 📈 Contribution Graph: -->
 
 <!-- ✨ NEW: ANIMATED METRICS STRIP -->
 <div align="center">
-
 </div>
  <br/>
   <br/>
   <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 <br/>
-
-
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Monoartiam99.Monoartiam99)
 
