@@ -11,9 +11,7 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 
 <!-- <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Monoartiam99&theme=tokyonight" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Monoartiam99&theme=react&hide_border=false" width="50%"  height="558" />
-
 </p> -->
 <div align="center">
 
@@ -36,7 +34,6 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 <br>
 <!-- contibution graph -->
 <!-- # 📈 Contribution Graph: -->
-
 <!-- ✨ NEW: ANIMATED METRICS STRIP -->
 <div align="center">
 </div>
