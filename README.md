@@ -1,8 +1,6 @@
 # 💫 About Me:
 Hi, I’m Monojit Nandy.<br>I’m passionate about application development and problem-solving, with a strong interest in building meaningful and impactful digital products. I enjoy turning ideas into functional solutions through code and continuously improving my skills by tackling real-world challenges. My goal is to create innovative applications that add value and solve practical problems.<br>contact me: monojit.nandyy@gmail.com
 
-
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/monojit01) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?id=100067757646830) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/monojit_nandy) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/monojit-nandy-435974271/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@MonojitNandy_01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nandymonojitcourse99.24@gmail.com) 
 
@@ -21,9 +19,7 @@ Hi, I’m Monojit Nandy.<br>I’m passionate about application development and p
 </div>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Monoartiam99&theme=react-dark&bg_color=00000000&color=A78BFA&line=8B5CF6&point=ffffff&area=true&hide_border=true"/>
-
 # 📊 𝗚𝗶𝘁𝗛𝘂𝗯 𝗔𝗰𝘁𝗶𝘃𝗶𝘁𝗶𝗲𝘀 :
-
 <!-- ANIMATED GRADIENT DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=3" width="100%"/>
 <br>
