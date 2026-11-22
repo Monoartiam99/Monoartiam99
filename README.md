@@ -1,6 +1,6 @@
 <img width="2000" height="400" alt="mo" src="https://github.com/user-attachments/assets/7062779c-642f-43e3-9f84-a62137038a34" />
 
-# 💫 About Me::
+# 💫 About Me:
 Hi, I’m Monojit Nandy.<br>I’m passionate about application development and problem-solving, with a strong interest in building meaningful and impactful digital products. I enjoy turning ideas into functional solutions through code and continuously improving my skills by tackling real-world challenges. My goal is to create innovative applications that add value and solve practical problems.<br>contact me: monojit.nandyy@gmail.com
 
 ## 🌐 Socials:
